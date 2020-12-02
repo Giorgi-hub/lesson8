@@ -22,6 +22,83 @@ body {
     font-size: 12px;
     color: #5863F8;
 }
+
+.section-4-div{
+    width: 1090px;
+    margin: 0 auto;
+    padding-top: 90px;
+    padding-bottom: 50px;
+  }
+  .big-txt-3{
+    width: 565px;
+  }
+  .img-div-2{
+    display: flex;
+    justify-content: space-between;
+  }
+  /* Footer */
+  footer{
+    height:405px;
+    width: 100%;
+    background-color: #121212;
+  }
+  .footer-div{
+    width: 1090px;
+    margin: 0 auto;
+    padding-top: 90px;
+    padding-bottom: 54px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .big-txt-4{
+    font-size: 24px;
+    line-height: 35px;
+    color: white;
+  }
+  footer p{
+    color: #b1b1b1;
+    font-size: 13px;
+    line-height: 21px;
+    width: 260px;
+    height: 83px;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  
+  }
+  footer a{
+    color: #5863f8;
+    font-size: 14px;
+    line-height: 21px;
+  }
+  footer li{
+    margin-bottom: 11px;
+  }
+  footer img{
+    margin-right: 9px;
+  }
+  footer h2{
+    color: white;
+    font-size: 18px;
+    line-height: 21px;
+    margin-bottom: 20px;
+  }
+  .footer-list-div{
+    display: flex;
+    justify-content: space-between;
+  }
+  .list-3 a{
+    color: white;
+  }
+  .footer-txt-div{
+    margin-right: 150px;
+  }
+  .copyright p,
+  .copyright{
+    height: 20px;
+    width: 1090px;
+    margin: 0 auto;
+  }
 h2 {
     position: absolute;
     margin: 166px;
